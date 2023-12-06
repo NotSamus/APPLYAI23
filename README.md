@@ -13,4 +13,4 @@ please have jupyter notebooks or jupyterlab or a way to red and rund the file .i
 3. Saving the model
 
 # Modeling
-we ar
+In the part of the modeling we used a Linear Regresssion as it seem the one that fits well.
